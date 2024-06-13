@@ -71,3 +71,7 @@ Future work may focus on further optimizing the model, expanding the dataset to 
 
 Overall, this project underscores the value of combining machine learning with practical applications, paving the way for innovative solutions in the agricultural industry.
 
+## Contact
+
+**MY LINKEDIN PROFILE** - https://www.linkedin.com/in/deepika2004/
+
